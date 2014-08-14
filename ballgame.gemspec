@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "ballgame.gemspec",
     "lib/ballgame.rb",
     "test/helper.rb",
     "test/test_ballgame.rb"
